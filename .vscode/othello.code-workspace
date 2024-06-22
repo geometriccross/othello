@@ -7,6 +7,7 @@
     "settings": {
         "haskell.hlint.executablePath": "/home/geometriccross/.local/bin/hlint",
         "haskell.hlint.run": "onType",
-        "haskell.manageHLS": "GHCup"
+        "haskell.manageHLS": "GHCup",
+        "haskell.formattingProvider": "stylish-haskell"
     }
 }
